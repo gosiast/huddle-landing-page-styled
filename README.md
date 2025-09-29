@@ -48,11 +48,7 @@ A big thank-you to PedroTech’s Styled Components tutorial [https://www.youtube
 Also, thanks to Frontend Mentor for the challenge and assets.
 
 🔗 Links
-
-Live Demo: (add your deployed link here)
-
-GitHub Repo: (add your repo link here)
-
+Live Demo: [https://huddle-landing-page-styled-componen.vercel.app/]
 Original Challenge: Frontend Mentor
 
 👩‍💻 About Me
