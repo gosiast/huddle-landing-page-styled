@@ -1,7 +1,7 @@
 import { ThemeProvider } from "styled-components";
 import Header from "./Header";
 import { Container } from "./styles/Container.styled";
-import { GlobalStyles } from "./styles/Global";
+import { GlobalStyles } from "./styles/Global.styled";
 import content from "../content";
 import Card from "./Card";
 import Footer from "./Footer";
